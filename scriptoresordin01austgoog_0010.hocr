@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptoresordin01austgoog_0010.png"; bbox 0 0 4222 6106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 700 1631 1365 1816">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 700 1631 1365 1816">
+     <span class='ocr_line' id='line_1_1' title="bbox 700 1631 1365 1816; baseline -0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 700 1631 1365 1816; x_wconf 72' lang='lat' dir='ltr'>PATRIARCHAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 117 2266 1791 2375">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 117 2266 1791 2375">
+     <span class='ocr_line' id='line_1_2' title="bbox 117 2266 1791 2375; baseline -0.001 0"><span class='ocrx_word' id='word_1_2' title='bbox 117 2266 121 2273; x_wconf 71' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 275 2270 952 2375; x_wconf 81' lang='lat' dir='ltr'>MONACHORUIII</span> <span class='ocrx_word' id='word_1_4' title='bbox 1009 2270 1791 2375; x_wconf 81' lang='lat' dir='ltr'>OCCIDENTAIIUIII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 488 2672 1702 2971">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 488 2672 1702 2971">
+     <span class='ocr_line' id='line_1_3' title="bbox 488 2672 1702 2971; baseline -0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 488 2768 491 2773; x_wconf 76' lang='grc'>’</span> <span class='ocrx_word' id='word_1_6' title='bbox 677 2802 1377 2971; x_wconf 72' lang='lat' dir='ltr'>BENEDICTO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1700 2672 1702 2676; x_wconf 3' lang='grc' dir='ltr'>ἱ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 557 3376 1506 3481">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 557 3376 1506 3481">
+     <span class='ocr_line' id='line_1_4' title="bbox 557 3376 1506 3481; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 557 3378 817 3480; x_wconf 83' lang='lat' dir='ltr'>PATRI</span> <span class='ocrx_word' id='word_1_9' title='bbox 873 3376 1506 3481; x_wconf 79' lang='lat' dir='ltr'>SANCTISSIIIIO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 996 4630 1913 4737">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 996 4630 1913 4737">
+     <span class='ocr_line' id='line_1_5' title="bbox 996 4630 1913 4737; baseline -0.002 -22"><span class='ocrx_word' id='word_1_10' title='bbox 996 4632 1118 4715; x_wconf 81' lang='lat' dir='ltr'>FILII</span> <span class='ocrx_word' id='word_1_11' title='bbox 1151 4630 1913 4737; x_wconf 70' lang='lat' dir='ltr'>AUSTRlAc07HUNGAR1c1.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2116 6100">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2116 6100">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2116 6100; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2116 6100; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
